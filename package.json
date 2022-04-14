@@ -1,0 +1,22 @@
+{
+  "name": "git-test2",
+  "version": "1.0.0",
+  "description": "git test 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olajesu070/git-test2.git"
+  },
+  "author": "olajesu benjamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olajesu070/git-test2/issues"
+  },
+  "homepage": "https://github.com/olajesu070/git-test2#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
